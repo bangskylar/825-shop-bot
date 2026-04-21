@@ -1,0 +1,5 @@
+.env
+*.log
+.railway
+node_modules
+banner.png
